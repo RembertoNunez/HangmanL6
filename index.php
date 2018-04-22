@@ -11,7 +11,7 @@
         
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
-    <body>
+    <body style="background-color:powderblue;">
         <div class='container text-center'>
             <header>
                 <h1>Hangman</h1>
